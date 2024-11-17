@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume Project</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="sidebar-area">
+            <div class="left sidebar">
+                <div class="first_area">
+                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIwyMJvjhtmiWHxIpjo37lN7MoYMTHA6PDTQ&s">
+                    <h2 class="left heading2">MANVI GUPTA</h2>
+                        <h4 class="left heading3 letter">SOFTWARE ENGINEER</h4>
+                </div>
+                <div class="line"></div>
+                <div class="second_area">
+                    <div class="header">
+                        <h1 class="left heading2">Contact Info</h1>
+                        <ul class="info">
+                            <li>
+                                <img width="20" height="20" src="https://img.icons8.com/fluency/48/phone--v1.png" alt="phone--v1"/>&nbsp;+917579185469
+                            </li>
+                            <li>
+                                <img width="20" height="20" src="https://img.icons8.com/ultraviolet/40/new-post.png" alt="new-post"/>&nbsp;itzmanvigupta987@gmail.com
+                            </li>
+                            <li>
+                                <img width="20" height="20" src="https://img.icons8.com/fluency/48/phone--v1.png" alt="phone--v1"/>&nbsp;+917579185469
+                            </li>
+                            <li>
+                                <img width="20" height="20" src="https://img.icons8.com/ultraviolet/40/new-post.png" alt="new-post"/>&nbsp;itzmanvigupta987@gmail.com
+                            </li>
+                        </ul>                     
+                    </div>
+                    <div class="middle">
+                        <h2 class="left heading2">SKILLS</h2>
+                        <ul class="progress">
+                            <li>
+                                <h4 class="left heading3">HTML</h4>
+                                <progress class="skill_progress" max="100" value="90"></progress>
+                            </li>
+                            <li>
+                                <h4 class="left heading3">CSS</h4>
+                                <progress class="skill_progress" max="100" value="80"></progress>
+                            </li>
+                            <li>
+                                <h4 class="left heading3">JavaScript</h4>
+                                <progress class="skill_progress" max="100" value="70"></progress>
+                            </li>
+                            <li>
+                                <h4 class="left heading3">HTML</h4>
+                                <progress class="skill_progress" max="100" value="90"></progress>
+                            </li>
+                            <li>
+                                <h4 class="left heading3">CSS</h4>
+                                <progress class="skill_progress" max="100" value="80"></progress>
+                            </li>
+                            <li>
+                                <h4 class="left heading3">JavaScript</h4>
+                                <progress class="skill_progress" max="100" value="70"></progress>
+                            </li>
+                            
+                        </ul>                        
+                    </div>
+                    <div class="footer">
+
+                    </div>
+                </div>
+            </div>
+            <div class="right sidebar">das</div>
+        </div>
+    </div>
+</body>
+</html>
